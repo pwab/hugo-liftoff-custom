@@ -1,3 +1,3 @@
-module github.com/wjh18/hugo-liftoff/v3
+module github.com/pwab/hugo-liftoff-custom/v1
 
-go 1.20
+go 1.22
