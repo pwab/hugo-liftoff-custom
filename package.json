@@ -1,6 +1,6 @@
 {
     "private": true,
-    "name": "hugo-liftoff",
+    "name": "hugo-liftoff-custom",
     "version": "",
     "scripts": {
         "build": "hugo",
